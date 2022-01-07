@@ -112,7 +112,7 @@ lesson 3 不定式(to+v)和语气助动词
 	may/might -> be likely to 
 	非谓语动词(verbals)[不定式,动名词,现在分词,过去分词]其实就是不做谓语的动词变成了这些奇怪的状态
 		动名词是n. 现在分词 过去分词是abj.
-		而不定式做补语可能做n. 而和动名词要根据谓语来选择
+		而不定式做补语可能做n. 和动名词要根据谓语来选择
 		to do or doing?
 		主谓宾s+v+o 宾语可能用不定式也可能用动名词 不带有任何不确定性推测性完成式时就用动名词 而不定式有助动词的属性(推测语气)
 			1.plan to do
@@ -637,18 +637,52 @@ lesson 16 定语从句中(关系从句)
 		Zed didn`t explain the reason + He killed Teemo for a reason => Zed didn`t explain the reason(the reason可以省略) why/that(可以省略) he killed Teemo
 			四级考点the reason why后面是结果不是原因 去掉the reason 宾语从句
 	理清三种从句的区别
-		wh-的混淆
-			when是最难分辨的
-				I`ll never forget my childhood,when life seems so simple. 定语从句
-					因为所有的从句都是连在一起的除了非限制性定语从句 所以关系型副词的定语从句也可以用,隔开 而从句这里是又先行词的 mychildrenhood
-				Nobody knows when he will return. 名词从句
-				The game ended when he shot the ball. 状语从句
-			where也难分辨
-				Let`s spend the weekend at my house, where we can be quite free. 定
-				I dont`t know where he is hiding 名
-				The ship is to go where none has gone 状
-			wh-ever的混淆
-				whatever he says can`t be true. 名
+		when是最难分辨的
+			I`ll never forget my childhood,when life seems so simple. 定语从句
+				因为所有的从句都是连在一起的除了非限制性定语从句 所以关系型副词的定语从句也可以用,隔开 而从句这里是又先行词的 mychildrenhood
+			Nobody knows when he will return. 名词从句
+			The game ended when he shot the ball. 状语从句
+		where也难分辨
+			Let`s spend the weekend at my house, where we can be quite free. 定
+			I dont`t know where he is hiding 名
+			The ship is to go where none has gone 状
+		wh-ever的混淆
+			whatever he says can`t be true. 名
 				这里whatever = anything that
-				whatever you do, just do it. 状
+			whatever you do, just do it. 状
 				只有在状从时whatever才等于no matter what
+
+lesson 18 定从简化(包含同位语,插入语,分词后置定语,修辞)
+	复习	The man is here + You asked about him => The man whom/who/that(可以省略) you asked about is here
+	传统语法中的分词后置定语其实就是一个简化后的定语从句 只是把名词后的be简化
+		Beer is most delicious + It is chilled to 6°C => Beer which is chilled to 6°C  is most delicious (简化) =>Beer chilled to 6°C is most delicious
+			这里which无法省略 而前后的is都是重复的 所以把从句is拿掉 Beer chilled to 6°C is most delicious 传统语法中的过去分词后置定语其实就是一个简化后的定语从句
+		Teemo,who was wounded in war,will be sent back. => Teemo wounded in war will be sent back => wounded in war will Teemo will be sent back 
+			只要把wounded看成形容词就能省略was了 放在名词前也能通顺
+		The ship which is coming to shore is from China. => The ship coming to shore is from China
+	当后面从句不是be动词时 只能变成to do和doing结构
+		My old car,which breaks down every week,won`t last longer. => My old car, breaking down every week,won`t last longer.
+			这里不是be动词只能变成to do和doing结构 而车子每周都抛锚是一个事实所以变成ing结构 传统语法中的现在分词做后置定语
+		Zed is the one who should go this time. => Zed is the one to go this time.
+			我超这不就是助动词变to do吗 我逐渐理解一切
+		Zed is not a man to trust 还原=> Zed is not a man + One can truat Zed 还原=> Zed is not a man whom one can trust
+		Zed is not a man to be trusted 还原=> Zed is not a man + The man can be trusted 还原=> Zed is not a man who can be trusted
+			这两个句子都对 按照传统语法无法解释 而一般我们都选择第一种意思 但第二句也对只是切入点不同 只是做主语的成分不同
+		This is the thing to do 还原=> This is the thing + we should do the thing 还原=> This is the thing which we should do
+		This is the time to do it 还原=> This is the time + we should do it at this time 还原=> This is the time when we should do it
+		Garen is the toughest guy + You must deal with the guy => Garen is the toughest guy whom you must deal with => Garen is toughest guy to deal with
+	如果主语省略意思大不同该怎么办
+		I have a job that Zed can do => I have a job + Zed can do it => I have a job for Zed to do.
+			如果把zed省略那么就变成我有一份工作去做而不是给zed做了 所以这种时候就要给介词
+	传统语法中的插入语和同位语
+		Zed who is cool and handsome is a ninjia. => Zed, ,cool and handsome, is a ninjia.
+			插入语? 形容词一般都放在限定词 abj. n和主系表结构表语里 而这里其实就是定语从句简化 省略了be 所以这个劫其实放在补语位置上
+		Zed,who is Master of Shadows, is a ninjia. => Zed Master of Shadows is a ninjia
+			同位语? 补语位置也可以放名词 名词也可以修饰名词
+	修辞(复合形容词)
+		Zed is a ninja + The ninjia kills Teemo => Zed is a ninja who kills teemo => Zed is a ninja killing Teemo => Zed is a Teemo-killing ninja.
+			如果改为killing Teemo修辞格不一样没有情感所以要变成复合形容词
+		I love these high peaks + These high peaks are coverd with snow => I love these high peaks which are coved with snow =>  I love these high peaks coved with snow => I love these high, snow-covered peaks
+
+
+

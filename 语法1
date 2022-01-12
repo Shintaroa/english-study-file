@@ -13,7 +13,7 @@ lesson 1 英语句子结构
 	3.s+v+o+o 主谓双宾 直宾 间宾 主谓双宾可以换位置
 		I give you (?)
 		I give you a rose => I give a rose to you
-	4.s+v+o+c 主谓宾补
+	4.s+v+o+c 主谓宾补 宾补就是把后面的谓语补语拿出来能做主系表结构
 		I found China great! 只有i found China是错误的因为China本身就存在 great作为补语修饰China
 		I found [that China is great!] 宾语从句
 	5.s+v+c 主系表也叫主谓补 补语补主语
@@ -89,7 +89,7 @@ lesson 2 n. 名词其实就是限定词 + abj. + n.
 		the moon [行星]
 		the earth [土地]
 		
-lesson 3 不定式(to+v)和语气助动词
+lesson 3 不定式(to+v)和语气助动词(不定式可以做n.abj.abv.)
 	助动词分为 语法助动词(be do have) 语气助动词(情态动词)(can could should may might)
 		i do it.i can do it. i may do it. i might do it.表达一种情感
 	语气助动词 = 不定式放在宾语前 can等于to able to
@@ -431,7 +431,7 @@ lesson 10 介词(介系词,介副词) preposition
 
 lesson 11 主谓一致
 	have还是has？ 加s还是不加? are还是is am?
-		your brother John has come to see you. 主语是your brother和John两者都是一个人 传统语法的同谓语
+		your brother John has come to see you. 主语是your brother和John两者都是一个人 传统语法的同位语
 		your brother John have come to see you. your brother和John两者是两个人
 		The senator and delegate wants to make a speech. 名词=限定+abj.+n the是限定 [senator and delegate] delegate前没有限定词是一个人即是参议员和代表
 		Every man and every woman has to do sth. for the  country. 用has 这里的every的作用是强调 其实every man和every woman 等于every person
@@ -602,7 +602,7 @@ lesson 16 定语从句中(关系从句)
 	修辞
 		There are two apples in the basket +  the basket is lying on the table. = There are two apples in the basket which is lying on the table.
 		You can find two apples in the basket. + I bought the apples. => in the basket You can find two apples which I bought.
-			修辞 这里有歧义 in the basket不知道是从句还是主句的 所以介词短语in the basket作为修辞 要提前
+			修辞 这里有歧义 in the basket按照之前的加只能在从句后 这样就不知道是从句还是主句的 所以介词短语in the basket作为修辞 要提前
 		A war broke out + It lasted 20 years = A war broke out which lasted 20 years.
 			修辞 如果从句放war后面那就会产生歧义 要先爆发才能持续20年 只能把which放在整个句子后面 而前面的句子只有一个名词所以放在后面没有歧义
 	复合关系代词: 当前面的东西类似anyone any person the thing 这种意思非常空洞的东西的时候 定语从句为了简洁可以升格为名词从句
@@ -618,7 +618,7 @@ lesson 16 定语从句中(关系从句)
 		Any person qualifies for the job + You see the person in this room => Any person  who/whom You see in this room qualifies for the job => whoever...
 			Any person  who/whom = whoever
 
-lesson 16 定语从句中(关系从句)
+lesson 16 定语从句下(关系从句)
 	复习关系代词: 当定语从句重复点是人那就用who 如果位置在从句宾语上就用whom 如果在没有逗号(有特殊情况 但一般that都用来精确修饰词)就用that 如果是物主代词(his her)用whose 如果是东西的话就用which当然大多数情况也可以用that 物主代词也可以用of which 强烈指定作用的词(all, only, anything,日期...)只能用that
 	关系副词:把相同含义的词变成关系代词(when,why,where,how)放在主语的先行词后面加从句
 	三种从句直接可以相互变化
@@ -660,7 +660,7 @@ lesson 18 定从简化(包含同位语,插入语,分词后置定语,修辞)
 		Teemo,who was wounded in war,will be sent back. => Teemo wounded in war will be sent back => wounded in war will Teemo will be sent back 
 			只要把wounded看成形容词就能省略was了 放在名词前也能通顺
 		The ship which is coming to shore is from China. => The ship coming to shore is from China
-	当后面从句不是be动词时 只能变成to do和doing结构
+	当后面从句不是be动词时必须是n. 只能变成to do和doing结构
 		My old car,which breaks down every week,won`t last longer. => My old car, breaking down every week,won`t last longer.
 			这里不是be动词只能变成to do和doing结构 而车子每周都抛锚是一个事实所以变成ing结构 传统语法中的现在分词做后置定语
 		Zed is the one who should go this time. => Zed is the one to go this time.
@@ -675,9 +675,9 @@ lesson 18 定从简化(包含同位语,插入语,分词后置定语,修辞)
 		I have a job that Zed can do => I have a job + Zed can do it => I have a job for Zed to do.
 			如果把zed省略那么就变成我有一份工作去做而不是给zed做了 所以这种时候就要给介词
 	传统语法中的插入语和同位语
-		Zed who is cool and handsome is a ninjia. => Zed, ,cool and handsome, is a ninjia.
+		Zed who is cool and handsome is a ninja. => Zed, ,cool and handsome, is a ninjia.
 			插入语? 形容词一般都放在限定词 abj. n和主系表结构表语里 而这里其实就是定语从句简化 省略了be 所以这个劫其实放在补语位置上
-		Zed,who is Master of Shadows, is a ninjia. => Zed Master of Shadows is a ninjia
+		Zed,who is Master of Shadows, is a ninja. => Zed Master of Shadows is a ninjia
 			同位语? 补语位置也可以放名词 名词也可以修饰名词
 	修辞(复合形容词)
 		Zed is a ninja + The ninjia kills Teemo => Zed is a ninja who kills teemo => Zed is a ninja killing Teemo => Zed is a Teemo-killing ninja.
@@ -685,4 +685,128 @@ lesson 18 定从简化(包含同位语,插入语,分词后置定语,修辞)
 		I love these high peaks + These high peaks are coverd with snow => I love these high peaks which are coved with snow =>  I love these high peaks coved with snow => I love these high, snow-covered peaks
 
 
+lesson 19 名从简化
+	主语位置简化
+		That I play games with friends is my hobby. => Playing games with friends is my hobby.
+			能简化要不就是没有意义 要么这个词是空洞词 I和my是重复的 去掉从句的I也就就没了引导词that 所以主句就缺少了名词 名词有to do和动名词 而todo有不确定性所以用doing
+	宾语位置简化
+		Many husbands enjoy that they do the cooking. => Many husbands enjoy doing the cooking.
+			many husbands 和they是重复的 enjoy to do明显不行 喜欢肯定是确定的事情 传统语法所谓中的enjoy doing
+	介词后的宾语
+		He got used to sth. + He worked late into the night => He got used to sth. that he worked late into the night. => He got used to working late...
+			传统语法中的get used to doing sth.的词组 to sth. 位置不能直接替换that从句要放在sth后
+	表语从句
+		His hobby is that goes fishing on weekend. => His hobby is going fishing on weekend.
+			两个he
+	同位语 上课说了同位语是定从简化
+		I am happy (about the fact) that you won the prize. => I am happy about your/you winning the prize.
+			主谓补多余部分是that引导的完整从句 如果从句缺成分那就是定语从句 that无法直接引导装从 可这里happy是形容词其实是省略了一个介词短语about the fact所以是fact的同位语 如果用you那就把you作为宾语 而后面是定语从句的简化其实省略了you后面的who 形式修饰的是you 而第二句就your作为限定词作为动名词短语修饰prize
+	用todo的情况
+		The children expect that they can get gifts for Chirstmas. => The children expect to get gifts for Chirstmas.
+			传统语法中expect to sth.这里有助动词所以用to do
+	形式宾语的情况
+		I think it strange that man should fear dogs. => I think it strange to fear dogs.
+			形式宾语 主谓宾补 这里it内容其实就是后面that的从句 man是空洞词
+	当用动名词doing时无法省略的情况
+		That he calls my friend every day is too much for me. => His calling my friend every day is too much for me.
+			这里很难简化 但是that不好 所以用his限定词修饰calling
+	当用to do时无法省略的情况
+		That Teemo should kill Zed was unbelievable. ->For Teemo to kill Zed was unbelievable.
+			这里也不能变成teemo`s to kill 因为限定词中间有to 如果是不定式这样要用for
+	句形变化
+		I want that you should go. => I want you to go.
+			如果去掉那就变成了主谓宾补
+	当从句是疑问句的情况
+		I don`t know what I should do. => I dont`t know what to do.
+			waht不能省略因为它本身是有意思的
+	当句子本身有被动态的情况
+		That anyone is called a liar is an insult. => Being called a liar is a insult.
+			这里called无法省略ed因为有被动态 但这样called是过去分词abj.但这里无法放 只能把be动词 动名词化 being
+	动名词短语的特殊意义
+		That one is a teacher requires a lot of patience. => Being a teacher requires a lot of patience.
+			如何直接变成 a teacher requires a lot of patience.那么意思就会变 那么加上being变成作为一个老师需要很多耐心
 
+lesson 20 状从简化(副从简化 包含分词短语做伴随状语,独立主格结构)
+	传统语法中的in order to
+		He studied hard in order that he could find a job => He studied hard in order to find a job.
+			he是重复的 连词因为in order有作用只简化that
+	传统语法中分词短语做伴随状语 其实是都简化后的副词从句 都是修饰谓语动词的
+		After he was shot in the knee,Teemo couldn`t fight. => after(可以省略) Shot in the knee,Teemo couldn`t fight.
+			整句话是副从可这里像形容词 主句Teemo是he是重复的去掉he,he was shot是一个主系表去掉was shot本身就是过去分词after去掉没有任何连接词的时候,人本能会产生时间因果逻辑,所以after可以省略 而after这个词除了连接词之外还能做介词所以可以省略
+		While he was hiding in the bush, Teemo fell asleep. => While(可以省略) hiding in the bush, Teemo fell asleep
+			这里hiding又是abj. 整个句子是修饰动词的 因为省略了while所以像形容词类
+		当不是系动词时	
+			Because we have nothing to do here, we might go home. => Because(可以省略) having nothing to do here, we might go home.
+		Although we have nothing to here,we can`t leave. => Although having nothing to here,we can`t leave => having nothing to here,but we can`t leave
+			这里although是虽然但是没有原因也不是时间所以不能省略 如果although去掉那就后面加上but 或者 cant前加still
+	being/as
+		As I am a student,I can`t buy a house. => As/Being a student, I can`t buy a house.
+			I重复,主系表am没有意义去掉 as不能去掉因为去掉就变成名词了 这里需要副词成分 如果要去掉as那么就要加上动词be+ing做语法功能
+	before,after,since这几个词除了连接词之外还能做介词如果省略默认介词而介词之后只能跟n.
+		Before he was in school,he used to be a naughty boy. => Before being in school,he used to be a naughty boy.
+			he重复,was系动词去掉 如果这里省略before那么在意思就变了变成在学校他常常是一个顽皮孩子,不是上学前  而如果去掉he was加上before也不对 因为before,after,since这几个词除了连接词之外还能做介词而介词之后只能跟n. 所以这里be动词要变成名词类
+		After he wrote the letter, he put it to mail. => After writing the letter, he put it to mail. => Having written the letter...
+			如果去掉after就变成正在写这封信
+	独立主格结构(主语不同的副词从句的简化 独立主格必须省略谓语部分)和悬垂结构
+		When Teemo was hiding in the bush,Zed came to kill him. => Teemo hiding in the bush,Zed came to kill him.
+			这里不能直接省略Teemo因为是从句主和主句谓重复 这样就不知道是谁躲的变成  hiding in the bush,Zed came to kill him 就变成了悬垂修饰结构 如果不去掉Teemo就变成了传统语法中的独立主格 其实就是一个简化后的副词从句 如果when留着was去掉这样不可以因为这样就丢了一个was 所以独立主格必须省略连接词和系动词
+	简化副词短语的另一种方法变成介词短语
+		When she arrived at the party,she found all the people gone. => when arriving at the party, she found all the people gone. 变成介词=> Upon/On arriving at the party, she found all the people gone. 后面的arrive变成n.=> Upon/On her arrival at the party she found all the people gone.
+		When she completed the project, she was promoted. => When/Upon/On completing the project, she was promote. =>  Upon/On her completion of the project...
+			因为之前的句子是主谓成分而现在后面有宾语所以后面的宾语需要加for变成后置定语
+		Although he opposed it, the plan was carried out. => Despite/In spite of his opposition, the plan was carried out.
+			这里不能去掉主语 因为不可以去掉谓语oppose所以不可以变成独立主格 所以只能变成n. 前面变成介词短语 因为In spite of his opposition修饰plan所以去掉it
+		If there should be a fire, the sprinkler will be started. => In case of a fire, the sprinkler will be started.
+		Because the exam is only a week away,I have no time to waste => with the exam only a week away,I have no time to waste
+
+lesson 21 复合句(对等句)
+	英语有五大基本句形 简单句:主谓 主谓宾 主谓宾宾 主谓宾补 主系表
+	还有三种复杂句: 名词从句 状语从句(副词从句) 定语从句(关系从句)
+	复合句所谓用and but 和or来连接句子相同的句子 比复杂句看似简单多了可在阅读中非常难
+	I get up early and I(可以省略共同主语I) go to school.
+	识别错误的地方
+		The Yangtze River, the most vital source of irragation water across the width of China and important as a transportation conduit as well, has nurtured the Chinese civilization for millennie
+			The Yangtze River, the most vital source of irragation water across the width of China and (an important transportation conduit), has nurtured the Chinese civilization for millennie
+				首先找句子主干 先把,区分的部分作为同位语是定从简化是可以省略的部分 说白了就是一个主谓宾的结构
+				补语结构前面半句话 最重要的词只有source of irragation water 和across the width of China说白了就是介词短语一个后置定语和一个状语
+				and的后面important是形容词性 所以无法对等 前后都是名词或者形容词
+				后面改成an important transportation conduit
+		Scientists believe hibernation is triggered by decreasinh environment temperature, food shortage,shorter periods of daylight, and by hormonal activity.
+			Scientists believe hibernation is triggered by decreasinh environment temperature, food shortage,shorter periods of daylight, and (hormonal activity).
+				这是一句宾语从句省略了that
+				后面的by开始就是介词 前面的都是名词部分 而后面的by就变介词了 明显是多余的
+		Smoking by children may slow the growth and generally harm the brain.
+			Smoking by children may slow (the growth of) and generally harm the brain.
+				后面and出现又出现了 谓宾 省略了主语看起来很工整  the growth 这里省略了 the growth of brain
+				既然重复了brain前面就去掉了而后面of要留着 这里少了of 看起来很变扭但是非常的正确
+				如果前面the growth of brain 后面改成it 后面it就不知道是什么了
+		Rapid advances in computer technology has enhanced the speed of calculation the quality of graphics, the fun with computer game, and have lowered prices.
+			Rapid advances in computer technology has enhanced the speed of calculation the quality of graphics (and) the fun with computer game （while lowering prices.）
+				对等句 前面全是名词后面多了个动词 have不要 如果直接加上the lowering prices前面的enhanced加强了 就自我矛盾了
+				能把and放前面而后面变成while lowering prices与此同时价格降低了 变成一个时间状语
+		Population density is very low in Canada, the largest country in Western Hemisphere and it is the second largest in the whole world.
+			Population density is very low in Canada, the largest country in Western Hemisphere and (the second largest) in the whole world.
+				这是一句定语从句简化 这里后面的it is明显和前面不对等 去掉it is
+		Once the safety concerns over the new production procedure were removed and with its superiority to the old one being proved,there was nothing to stop the factory form switching over.
+			Once the safety concerns over the new production procedure were removed (and its) superiority to the old one (was可擦) proved,there was nothing to stop the factory form switching over.
+				and前面是一个主谓可后面是一个with明显不对 后面也要变成主谓
+				但写的还是不够好 be动词重复要把was擦点
+		Worker bees in a honeybee have assume various tasks, such as guarding the entrance,serving as sentinel and to sound a warning at the slightest threat, and exploring outside the nest for areas rich in flowers and consequertly nectar.
+			Worker bees in a honeybee have assume various tasks, such as guarding the entrance,serving as sentinel and (sounding) a warning at the slightest threat, and exploring outside the nest for areas rich in flowers and consequertly nectar.
+				这里有四个and首先分结构 1.such as guarding the entrance, 
+				2.serving as sentinel and to sound a warning at the slightest threat 做哨兵的同时报警一件事情的两面性 而to sound前面的句子是serving所以变成sounding
+				3.exploring outside the nest for areas rich in flowers and consequertly nectar.	 rich是一个简化 which rich are 后面也有简化 nectar也是简化是 where are rich in nectar 去掉加上consequertly 意为那就是 作为修饰表达自然过度
+				for areas rich in flowers and consequertly nectar这快省略的非常完美
+		Shi Huarged of the Qin dynasty built the Great wall of China in the 3rd century BC, a gigonic construction that meanders from Gansu province in the west throught 2400km to the Yellow Sea in the east and ranging from 4 to 12 m in width.
+			Shi Huarged of the Qin dynasty built the Great wall of China in the 3rd century BC, a gigonic construction that meanders from Gansu province in the west throught 2400km to the Yellow Sea in the east and (ranges) from 4 to 12 m in width.
+				主语部分其实就只有 Shi Huarged of there Qin dynasty built the Great wall a gigonic construction 主谓宾同位语
+				and前面是一个定语从句 that meanders meander是一个动词 所以ranging也要变成动词 ranges
+		The large number of sizable orders suggests that factory operations are thriving, but that the low-tech nature of the processing indicates that profit margins will not be as high as might be expected.
+			The large number of sizable orders suggests that factory operations are thriving, (but the low-tech nature of) the processing indicates that profit margins will not be as high as might be expected.
+				前面是一个主谓宾的宾语从句后面的 but是一个复合句连接词 所以前后要相同可 后面一个如果有that就是主语从句很变扭 所以去掉that变成主句
+		Not only is China the world`s most populous state,but also the largest market in 21st century.
+			(China is not only) the world`s most populous state,but also the largest market in 21st century.
+			Not only is China the world`s most populous state,but  (it is also) the largest market in 21st century.
+				not only..but alse修饰的东西一定要是一样的 这里not only后面是主谓补 but also 后面是market
+				not only在句首要发生倒装 Not only is China the world`s most populous state如果这样写就变成了一个经过倒装修饰的完整句子
+				also是一个副词它修饰副词要放在is 后面

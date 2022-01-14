@@ -619,7 +619,7 @@ lesson 16 定语从句中(关系从句)
 			Any person  who/whom = whoever
 
 lesson 16 定语从句下(关系从句)
-	复习关系代词: 当定语从句重复点是人那就用who 如果位置在从句宾语上就用whom 如果在没有逗号(有特殊情况 但一般that都用来精确修饰词)就用that 如果是物主代词(his her)用whose 如果是东西的话就用which当然大多数情况也可以用that 物主代词也可以用of which 强烈指定作用的词(all, only, anything,日期...)只能用that
+	复习关系代词: 当定语从句重复点是人那就用who 如果位置在从句宾语介词后上就用whom 如果在没有逗号(有特殊情况 但一般that都用来精确修饰词)就用that 如果是物主代词(his her)用whose 如果是东西的话就用which当然大多数情况也可以用that 物主代词也可以用of which 强烈指定作用的词(all, only, anything,日期...)只能用that
 	关系副词:把相同含义的词变成关系代词(when,why,where,how)放在主语的先行词后面加从句
 	三种从句直接可以相互变化
 		The rain came at a time + The farmers needed it most then. => The rain came at a time(at a time当有when时可以省略) when(有at a time时when也可以省略用that) the farmers needed it most.
@@ -675,7 +675,7 @@ lesson 18 定从简化(包含同位语,插入语,分词后置定语,修辞)
 		I have a job that Zed can do => I have a job + Zed can do it => I have a job for Zed to do.
 			如果把zed省略那么就变成我有一份工作去做而不是给zed做了 所以这种时候就要给介词
 	传统语法中的插入语和同位语
-		Zed who is cool and handsome is a ninja. => Zed, ,cool and handsome, is a ninjia.
+		Zed who is cool and handsome is a ninja. => Zed,cool and handsome, is a ninjia.
 			插入语? 形容词一般都放在限定词 abj. n和主系表结构表语里 而这里其实就是定语从句简化 省略了be 所以这个劫其实放在补语位置上
 		Zed,who is Master of Shadows, is a ninja. => Zed Master of Shadows is a ninjia
 			同位语? 补语位置也可以放名词 名词也可以修饰名词
@@ -810,3 +810,43 @@ lesson 21 复合句(对等句)
 				not only..but alse修饰的东西一定要是一样的 这里not only后面是主谓补 but also 后面是market
 				not only在句首要发生倒装 Not only is China the world`s most populous state如果这样写就变成了一个经过倒装修饰的完整句子
 				also是一个副词它修饰副词要放在is 后面
+
+lesson 22 倒装句
+	英语产生倒装在传统中是为了强调 而很多时候倒装是为了产生修辞
+	Zed likes Teemo more than Garen.
+		写的非常不好的比较句 会产生歧义 会解读成两个句子
+		Zed likes Teemo more than Garen does. 劫喜欢提莫胜过盖伦
+			加上一个定语从句这个does中间一大段突然does就阅读很奇怪:Zed likes Teemo more than Garen,who as Might of Demaia is brave and handsome, does
+			定语从句也没法变位置只能的是does放Garen前就形成了倒装:Zed likes Teemo more than does Garen,who as Might of Demaia is brave and handsome
+		Zed likes Teemo more than he likes garen. 劫喜欢提莫胜过他喜欢盖伦
+	1.Zed is a ninja + 2.A heavy responsibiliy, whether he like it or not falls on him => Zed is a ninja on whom a heavy responsibiliy, whether he like it or not falls 倒装=> Zed is a ninja on whom falls a heavy responsibiliy, whether he like it or not.
+		这里的fails很突兀 句子很难懂隔了一个同位语从句离前面的词太远了所以要要放在 a heavy responsibiliy前面形成倒装
+	简单的倒装
+		If I had been there I could have done sth to help. => had I been there I could have done sth to help.
+			虚拟语气变来的 只需要擦掉引导词助动词当引导词用 were I you,...是最经典的 因为老外觉得if多余了就去掉了变了结构
+		Zed said "Teemo was killed in game." =>"Teemo was killed in game." said Zed
+			这里""里的信息的最重要的 所以很多时候看到的said Zed 也可以改成zed said 评价从句
+		Teemo warns that Zed is coming back. => Zed is coming back Teemo warns/warns Teemo => Zed,warns Teemo, is coming back.
+			一般正常人都在意的是内容 首先放出重要的部分 这样写出来更加有严肃的意思
+		 the train goes there => There goes the train.  you book is Here => Here is your book.
+			这些句子就发生了倒装 传统语法中的副词提前的倒装
+		a monster dwells in summoner`s Rift => In summoner`s Rift dwells a monster,who is cruel and blood-thristy
+			如果后面加定语从句整个句子非常臃肿 地点副词提前两个目的 能更加多变更流畅
+		China lies to the west of Korea + China spread the Pacific to the east=> To the west of Korea lies China to the east spread the Pacific.
+			地点副词还有很多好处
+	传统语法中的否定词引导句需要倒装 不是完全对的
+		We don`t have such luck every day. => Not every day do we have such luck.
+			这里只能用do we 这里every day修饰的是have 所以把助动词do也提前
+		I will not stop waiting for you until you are married => Not until you are married will I stop waiting for you.
+			传统语法中的not until 修辞就是损失结构最小化完成完美句子
+		I had hardly sat down to work when the phone rang => Hardly had I sat down to work when the phone rang
+			hardly...when 传统语法中的一...就
+		Hardly anyone was there
+			这句话否定句再句首就不是倒装 因为这里Hardly是修饰名词anyone的限定范围的abv. 几乎没任何人在哪 如果去传统语法去搜就是例外
+		Only I saw him yesterday.
+		Only yesterday did I see him.
+			是否倒装要看在句首后面的修饰对象
+		He not only passed the exam,but also scored the first.
+			not only提到句首:
+				Not only did he pass the exam, but also he scored the first.因为Not only but also是对等句因为提前导致后面不统一 要加上he
+				Not only did he pass the exam, but he also scored the first.但这里如果also 放在he前面就变成修饰he了 所以要在scored前
